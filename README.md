@@ -1,4 +1,4 @@
-Recipe Website
+Recipe Website:
 
 Created a website using links, images, and writing styles to demostrate different recipes. 
 
